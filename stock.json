@@ -1,0 +1,29 @@
+{
+	"stock": [
+	  {
+		"productName": "Logitech G502 HERO",
+		"quantity": 10,
+		"price": 49.99
+	  },
+	  {
+		"productName": "Corsair K95 RGB Platinum",
+		"quantity": 15,
+		"price": 159.99
+	  },
+	  {
+		"productName": "ASUS ROG Swift PG279Q",
+		"quantity": 5,
+		"price": 699.99
+	  },
+	  {
+		"productName": "NVIDIA GeForce RTX 3080",
+		"quantity": 7,
+		"price": 699.99
+	  },
+	  {
+		"productName": "Secretlab Omega 2020",
+		"quantity": 12,
+		"price": 389.99
+	  }
+	]
+  }
